@@ -1,0 +1,18 @@
+body {
+      background-color: powderblue;
+      }
+
+hr {
+  border-color: #A9333A;
+  border-width: 5px;
+  width: 30%;
+  border-style: none;
+  border-top-style: dotted;
+  }
+  p {
+    color: #125C13;
+  }
+h1 {
+  color: #B91646;
+}
+td {color: #125C13;}
